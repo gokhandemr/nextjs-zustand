@@ -1,0 +1,21 @@
+.fetch button {
+    margin: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.fetch h3 {
+    margin: 20px 0;
+}
+
+.fetch ul li {
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #dedede;
+    text-align: left;
+    padding: 5px 10px;
+}
+
+.fetch ul li:nth-child(even) {
+    background-color: #dedede;
+}

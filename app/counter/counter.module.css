@@ -1,0 +1,21 @@
+.counter h3 {
+    margin-bottom: 40px;
+}
+
+.counter p {
+    font-weight: bold;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.counter button {
+    border: none;
+    padding: 15px 20px;
+    margin: 0 20px;
+    cursor: pointer;
+    background-color: rgb(111, 248, 111);
+}
+
+.counter>button:last-child {
+    background-color: rgb(255, 153, 153);
+}

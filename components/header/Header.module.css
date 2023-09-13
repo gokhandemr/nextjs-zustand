@@ -1,0 +1,12 @@
+.header {
+    margin: 40px 0;
+}
+
+.header nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(185, 185, 185);
+    padding: 20px;
+}
